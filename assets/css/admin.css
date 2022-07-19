@@ -1,0 +1,27 @@
+#header {
+  background-color: #ffc107;
+}
+.navbar {
+  padding: 0;
+  height: 56px;
+}
+.navbar-brand {
+  color: black;
+}
+.me-2 {
+  margin-left: 250px;
+}
+.btn-primary {
+  margin-left: 30px;
+}
+.cart {
+  margin-left: 30px;
+}
+
+.tab-content {
+  padding-top: 60px;
+}
+
+#btnThemSanPham {
+  margin: 30px 0;
+}
